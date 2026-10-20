@@ -30,11 +30,10 @@ Codice nativo, grafica procedurale, sistemi fatti in casa. Zero asset esterni, z
 
 | | Progetto | Stack |
 |:--|---|---|
-| 🚀 | **[void_lance](https://github.com/4n-0n/void_lance)** — space shooter arcade nativo per Linux, grafica interamente procedurale | `C++20` `OpenGL` `Qt6` |
-| 🐍 | **[Worm3D](https://github.com/4n-0n/Worm3D)** — serpente tridimensionale in un'arena cartesiana | `C++20` `Qt6` `OpenGL` |
 | 💬 | **[clint-irc](https://github.com/4n-0n/clint-irc)** — client IRC minimale, niente fronzoli | `C++17` `Qt6` |
-| 🐧 | **[utilities-for-gentoo](https://github.com/4n-0n/utilities-for-gentoo)** — script per la vita quotidiana su Gentoo | `Shell` |
-| ⚙️ | **[Hyper-V-kernel-config](https://github.com/4n-0n/Hyper-V---gentoo-kernel-config)** — `.config` pronto per compilare `gentoo-sources` sotto Hyper-V | `Kernel` `Shell` |
+| ⚙️ | **[Hyper-V kernel config](https://github.com/4n-0n/Hyper-V---gentoo-kernel-config)** — `.config` per compilare `gentoo-sources` come guest Hyper-V, con script di install e verifica | `Kernel` `Shell` |
+| 🚀 | **void_lance** <sub>privato</sub> — space shooter arcade nativo per Linux, grafica interamente procedurale | `C++20` `OpenGL` `Qt6` |
+| 🐍 | **Worm3D** <sub>privato</sub> — serpente tridimensionale in un'arena cartesiana | `C++20` `Qt6` `OpenGL` |
 
 ### Stack
 
