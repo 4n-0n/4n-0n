@@ -32,7 +32,7 @@ Codice nativo, grafica procedurale, sistemi fatti in casa. Zero asset esterni, z
 |:--|---|---|
 | 💬 | **[clint-irc](https://github.com/4n-0n/clint-irc)** — client IRC minimale, niente fronzoli | `C++17` `Qt6` |
 | ⚙️ | **[Hyper-V kernel config](https://github.com/4n-0n/Hyper-V---gentoo-kernel-config)** — `.config` per compilare `gentoo-sources` come guest Hyper-V, con script di install e verifica | `Kernel` `Shell` |
-| 🚀 | **void_lance** <sub>privato</sub> — space shooter arcade nativo per Linux, grafica interamente procedurale | `C++20` `OpenGL` `Qt6` |
+| 🚀 | **[void_lance](https://pseudocodice.it/void_vance)** — space shooter arcade nativo per Linux, grafica interamente procedurale | `C++20` `OpenGL` `Qt6` |
 | 🐍 | **Worm3D** <sub>privato</sub> — serpente tridimensionale in un'arena cartesiana | `C++20` `Qt6` `OpenGL` |
 
 ### Stack
