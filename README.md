@@ -6,11 +6,18 @@
 
 Codice nativo, grafica procedurale, sistemi fatti in casa. Zero asset esterni, zero scorciatoie.
 
+![AI-driven](https://img.shields.io/badge/AI--driven_%C2%B7_human--designed-6E40C9?style=flat-square)
+
 <sub>Membro di <a href="https://github.com/La-Congrega-Degli-Informatici">@La-Congrega-Degli-Informatici</a></sub>
 
 </div>
 
 ---
+
+### Come lavoro
+
+> **AI-driven, human-designed.**
+> La maggior parte del codice la scrivono agenti AI sotto la mia direzione; architettura, scelte tecniche, revisione e responsabilità finale restano umane. L'AI è il martello, non il falegname.
 
 ### Cosa faccio
 
