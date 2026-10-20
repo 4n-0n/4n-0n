@@ -17,6 +17,7 @@ Codice nativo, grafica procedurale, sistemi fatti in casa. Zero asset esterni, z
 ### Come lavoro
 
 > **AI-driven, human-designed.**
+>
 > La maggior parte del codice la scrivono agenti AI sotto la mia direzione; architettura, scelte tecniche, revisione e responsabilità finale restano umane. L'AI è il martello, non il falegname.
 
 ### Cosa faccio
